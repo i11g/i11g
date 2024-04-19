@@ -1,5 +1,5 @@
 ### Hi there I'm Ivan Georgiev👋
-I’m currently learning Front - End Test Automation at Soft Uni!
+I’m currently learning Front - End Test Automation as a last step in my QA Automation journy!
 <!--
 **i11g/i11g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
