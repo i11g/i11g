@@ -1,5 +1,5 @@
 ### Hi I'm Ivan Georgiev👋
-I’m currently learning Front - End Test Automation as a last step of my QA Automation journey! I’m currently working on Web Development and Java Script.
+As an enthusiastic learner I’m currently learning Front - End Test Automation as a last step of my QA Automation journey! My current focus lies in Web Development and JavaScript, where I try to become familiar with Web Development principles, aiming to build  efficient test automation solutions.   
 I’m looking to collaborate on any project or topic related to Test Automation.
 How to reach me: https//i11g.github.io
 <!--
