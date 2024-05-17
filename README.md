@@ -1,6 +1,6 @@
 ### Hi I'm Ivan Georgiev👋
 🌱 I’m currently focus on Front - End Test Automation as a last step of my QA Automation journey! My interests lies in fields of Web Development and JavaScript with the aim to build efficient test automation solutions, or who knows, maybe one day even develop cool web applications.  
-👯 I’m looking to collaborate on any project or topic related to Test Automation.
+👯 I’m looking to collaborate on any project or topic related to Test Automation.  
 📫 You can find more about me at https//i11g.github.io.
  
 <!--
