@@ -1,5 +1,5 @@
 ### Hi I'm Ivan Georgiev👋
-🌱 I’m currently focus on Front - End Test Automation as a last step of my QA Automation journey! My interests lies in fields of Test Automation and Web Development with the aim to build efficient test automation solutions, or who knows, maybe one day even develop cool web applications.  
+🌱 My interests lies in fields of Test Automation with focus on using Playwright and Selenium as a tools to build efficient test automation solutions!  
 👯 I’m looking to collaborate on any project or topic related to Test Automation.  
 📫 You can find more about me at [https://i11g.github.io].
  
