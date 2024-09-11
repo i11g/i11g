@@ -1,5 +1,5 @@
 ### Hi I'm Ivan Georgiev👋
-🌱 My interests lies in field of Test Automation with focus on using Playwright and Selenium as a tools to build cool and efficient test automation solutions!  
+🌱 My interests lies in field of Test Automation with focus on using Playwright and Selenium as a tools to build cool and efficient test automation solutions.  
 👯 I’m looking to collaborate on any project related to development of integration or e2e automatiom tests for different web applications.      
 📫 You can find more about me at [https://i11g.github.io].
  
